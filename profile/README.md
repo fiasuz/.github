@@ -1,6 +1,6 @@
 # FIAS
 
-![Banner](./banner.png)
+![Banner](./profile-banner.png)
 
 **FIAS** (Free and Innovative Application Studio) is an open-source organization focused on building modern, accessible, and high-quality software solutions. Our mission is to support developers and communities through free and open tools, educational resources, and innovative applications.
 
