@@ -25,8 +25,7 @@ We welcome contributors of all levels. If you're passionate about open-source an
 
 ## 📫 Contact
 
-- GitHub Discussions (coming soon)
-- Telegram / Discord (if available)
+- [Telegram](https://t.me/usmanov_dev)
 
 ---
 
